@@ -1,5 +1,6 @@
 # Projeto 3 de Ciência dos dados
-Projeto de ciência de dados, do 2º período de Engenharia de Computação, cujo principal objetivo é prever uma variável principal em função de demais outras variáveis que podem influenciar em seu comportamento.
+Projeto de ciência de dados, do 2º período de Engenharia de Computação, cujo principal objetivo é prever a probabilidade de um indivíduo de determinado perfil tomar todas as doses da vacina.
+
 
 
 
@@ -25,3 +26,10 @@ João Lucas Brasileiro de Sousa Lopes
 Lara Christine Melo Vasconcelos
 * [Github](https://github.com/laracmv)
 * [Linkedin](https://www.linkedin.com/in/lara-vasconcelos-16b1a5221/)
+
+# DEPENDÊNCIAS
+Para visualizar o projeto é necessário importar as bibliotecas mencionadas abaixo:
+* pandas
+* matplotlib
+* numpy 
+* os
