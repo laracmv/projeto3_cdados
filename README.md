@@ -21,6 +21,7 @@ Yamandú Germano Cavalcanti:
 João Lucas Brasileiro de Sousa Lopes
 * [Github](https://github.com/jlbrasileiro)
 * [Linkedin](www.linkedin.com/in/joaolucasbrasileiro)
+
 Lara Christine Melo Vasconcelos
 * [Github](https://github.com/laracmv)
 * [Linkedin](https://www.linkedin.com/in/lara-vasconcelos-16b1a5221/)
